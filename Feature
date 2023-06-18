@@ -1,3 +1,0 @@
-How to Update Fork Repo From Original Repo
-Vipul : Bug!!! [ Major bug issue ]
-Admin : [Bug Fix !]
